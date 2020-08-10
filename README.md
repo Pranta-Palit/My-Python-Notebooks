@@ -5,7 +5,7 @@ This repository contains sample problem solutions with python. Problem statement
 
 ## Category of contents:
 ### File
-- Python - Files[Sample 1].ipynb (notebook includes mbox-short.txt file):
+#### Python - Files[Sample 1].ipynb (notebook includes mbox-short.txt file):
 
 This notebook contains concept of 
 - Reading file
