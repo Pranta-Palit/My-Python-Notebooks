@@ -5,7 +5,7 @@ This repository contains sample problem solutions with python. Problem statement
 
 ## Category of contents:
 ### File
-#### Python - Files[Sample 1].ipynb (notebook includes mbox-short.txt file):
+#### Python - Files[Sample 1].ipynb (notebook requires mbox-short.txt file):
 
 This notebook contains concept of 
 - Reading file
@@ -15,3 +15,13 @@ This notebook contains concept of
 - Double Precision
 - Decimal rounding
 - List comprehension
+
+#### Python - File & Data Structure [Sample 2].ipynb (notebook requires romeo.txt file):
+##### Find unique words
+
+This notebook contains concept of 
+- Reading file
+- Sorting
+- List
+- Set
+- Split
